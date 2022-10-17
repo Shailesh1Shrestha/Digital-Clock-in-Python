@@ -1,4 +1,4 @@
-from tkinter import Label, Tk #GUI libaries
+from tkinter import Label, Tk 
 import time
 
 window = Tk()
